@@ -33,9 +33,6 @@
     "@ionic/app-scripts": "^3.2.2",
     "typescript": "~2.8.3"
   },
-  "devDependencies": {
-    "@ionic/app-scripts": "^3.2.2",
-    "typescript": "~2.8.3"
-  },
+  "devDependencies": {},
   "description": "An Ionic project"
 }
