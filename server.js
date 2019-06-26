@@ -9,7 +9,7 @@ app.listen(app.get('port'), function(){
 
 
 
-
+//npm run build && npm start
 // var express = require(‘express’);
 // var path = require(‘path’)
 // var app = express();
