@@ -7,11 +7,6 @@ console.log('Express server listening on port ' + app.get('port'));
 });
 
 
-// "start": "ionic-app-scripts serve",
-// "clean": "ionic-app-scripts clean",
-// "build": "ionic-app-scripts build",
-// "lint": "ionic-app-scripts lint"
-
 
 // var express = require('express');
 // var path = require('path');
